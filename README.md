@@ -17,6 +17,4 @@ Please provide the contract address that you deployed on the Sepolia network.
 
 ## Sepolia Etherscan
 Paste the contract address into the Sepolia Etherscan and share the screenshot.
-![alt text](image-2.png)
-
-不知道問為甚麼會這樣，錢包和 alchemy app 都有吃到這個指令。
+![alt text](image-3.png)
